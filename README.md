@@ -1,6 +1,6 @@
 ### Hi there, I'm Therese Cecilia! 👋
 
-I'm a web wizard on a mission to craft mind-blowing web experiences. Currently on an adventure with React, Next.js, and P5.js. 
+I'm a web wizard currently on an adventure with React, Next.js, and P5.js. 
 Let's team up and make some web magic together!
 
 ```javascript
