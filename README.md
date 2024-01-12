@@ -1,14 +1,15 @@
-### Hi there, I'm Tess Cecilia! 👋
+### Hi there, I'm Tess! 👋
 
-```javascript
-const mySkills = [
-  "Next.js", "React", "JavaScript","P5.js", "HTML5", "CSS3", "npm", "Node.js",
-  "Git", "Figma", "Web Design", "ARIA", "Responsive Design", "Mobile First"
+```dart
+final List<String> mySkills = [
+  "Next.js", "React", "JavaScript", "Node.js", "Typescript", "Flutter", "Dart",
+  "HTML5", "CSS3", "Git", "Figma", "MERN", "ARIA", "Responsive Design", "Tailwind"
 ];
 
-console.log("Unlocking the power of code...");
-let creativity = true;
-let passion = true;
+print("Unlocking the power of code...");
+bool creativity = true;
+bool passion = true;
+
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tessceciliaj&theme=dracula&layout=compact)](https://github.com/tessceciliaj/github-readme-stats) 
